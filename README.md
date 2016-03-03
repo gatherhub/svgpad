@@ -3,4 +3,4 @@ SvgPad is a library for peer-to-peer white-board application implemented in HTML
 
 # License
 
-PeerCom is released and distributed under the permissive MIT License: Copyright (c) Quark Li, quarkli@gmail.com
+SvgPad is released and distributed under the permissive MIT License: Copyright (c) Quark Li, quarkli@gmail.com
